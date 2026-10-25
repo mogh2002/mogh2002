@@ -18,10 +18,11 @@ What I like most is taking slow, manual analysis work and making it faster with 
 | Repo | What it is |
 |---|---|
 | [ba-pm-templates](https://github.com/mogh2002/ba-pm-templates) | Templates I use for analysis and delivery: charter, status report, RACI, risk log, handover card, note triage, lessons learned |
+| [note-triage-demo](https://github.com/mogh2002/note-triage-demo) | UAT notes → Bug / Tweak / Change request against the signed requirements: Claude proposes with a cited reason, the analyst decides, then Jira CSV + CR drafts |
 | [Optimal-State-of-living-](https://github.com/mogh2002/Optimal-State-of-living-) | University project: mental-health mobile app (React Native, Node.js, Firebase) |
 | [mobile-campus-companion](https://github.com/mogh2002/mobile-campus-companion) | University project |
 
-More coming: a note-triage demo (UAT notes → Bug / Tweak / Change Request with an LLM step and human approval) and an Arabic meeting-to-requirements assistant (offline Whisper + LLM).
+More coming: an Arabic meeting-to-requirements assistant (offline Whisper + LLM).
 
 ## Case study (no code: it belongs to my employer)
 
